@@ -1,2 +1,1 @@
 # quote-app
-# quote-app
